@@ -1,4 +1,4 @@
-# GateC
+# GateC Qurre
 ### Eng: Creates a new location - GateC
 ### Rus: Создаёт новую локацию - Гейт C
 ## Screenshots
